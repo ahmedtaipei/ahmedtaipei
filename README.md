@@ -66,6 +66,7 @@ Dynamic, motivated and well-grounded change agent with a passion for attaining t
 32. Off line signature image verification using Radon transform and SVM/KNN classifiers, .
 33. Continuous Dynamic Time Warping for Signature image Verification.
 34. Development of Software agent for Border Surveillance
+35. Design and implementation of two axis antenna tracking controller.
 
 :rocket:
 
