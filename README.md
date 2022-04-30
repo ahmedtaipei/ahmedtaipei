@@ -3,7 +3,7 @@
 I am an assistant professor and researcher of computer systems with extensive experience in RTL, embedded software developing, robotics, and a verifiable track record of achievements within the higher education, research, and industry. Participate and aware of all sorts of agile ceremonies (user story grooming, sprint planning, sprint retrospective). Interesting in leading innovation and large scale change for the benefit of industry and research worldwide. Long experience in software development, for various phases of the software development life-cycle. An expert in object-oriented design and analysis through intuitive problem-solving and creativity.
 Dynamic, motivated and well-grounded change agent with a passion for attaining the unachievable through analysis and collaboration. I consistently demonstrate a can-do attitude and embrace tough challenges with energy and enthusiasm. 
 
-Key Competencies: 
+:rocket: Key Competencies: 
 -Team Player and Collaborative
 -Research and Development
 -Business Analysis
@@ -11,7 +11,7 @@ Key Competencies:
 -Software Development 
 -Communication and Negotiation 
 
-Technologies:  
+:rocket: Technologies:  
 -Programming: Assembly for x86, C/C++, embedded C, Qt, QML, Java, Python.
 -Scripting Languages: Shell, Perl, Tcl/Tk, HTML, Python and PHP scripting for websites.
 -Wireless Protocols: LTE, GSM/GPRS and UMTS, 802.11 a/b/g/n/s/e, ad hoc networks (MANETs).
@@ -19,7 +19,8 @@ Technologies:
 -Operating Systems: Linux /Unix, FreeBSD, Windows, knowledge of RTOS systems, CUDA.
 -Controllers: INTEL 8051, PIC, ARM Cortex, Raspberry PI
 -Hardware Protocols: PSI, I2C, CAN, ETHERNET
-Key Achievements: 
+
+:rocket: Key Achievements: 
 +Played main role in organizing IEEE International Conference on Communication, Control, Computing, and Electronics Engineering, 2017. Attendee nearly 700 from both industrial and academic sectors. About 100 scientific papers were published in IEEE-explore. 100% achieved. 
 +Supervised more than twenty M.Sc. and PhD thesis relating to machine learning, robotics, and embedded system with outstanding results. Nearly all of them are 100% implemented. Outcomes and results of the work are published in international conferences and worldwide journals. 
 +Established High-Tech information and communication security Research and Development Center in Karary University (2012-2016) . Achieved 100%. Successfully trained and mentored more than 20 engineers and researchers. 
@@ -60,6 +61,7 @@ Key Achievements:
 33. Continuous Dynamic Time Warping for Signature image Verification.
 34. Development of Software agent for Border Surveillance
 
+:rocket:
 
 Please contact me mogwari2000atyahoodotcom
 
