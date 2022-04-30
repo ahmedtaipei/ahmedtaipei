@@ -26,7 +26,7 @@ Key Achievements:
 +Designed and implemented Secure CISCO-based network for GIAD. Above 500 dual points. . 100%. 
 +Building technology and product roadmap for the group. 60% accomplished. 
 
-+A list of some projects [hardware and software] I have been engaged in during the period (2010- present) in the field of embedded systems, robotics, computer vision, and hardware security: 
++:rocket: A list of some projects [hardware and software] I have been engaged in during the period (2010- present) in the field of embedded systems, robotics, computer vision, and hardware security: 
 1. Design and Simulation of a control system of DC motor speed and direction.
 2. Design and simulation of DC Motor Speed controller based on pole placement.
 3. Enhancement of DC Motor Speed Using Fuzzy Controller. 
