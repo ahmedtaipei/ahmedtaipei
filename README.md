@@ -67,7 +67,7 @@ Dynamic, motivated and well-grounded change agent with a passion for attaining t
 33. Continuous Dynamic Time Warping for Signature image Verification.
 34. Development of Software agent for Border Surveillance
 35. Design and implementation of two axis antenna tracking controller.
-36. 16.	Physical Modeling for DC Motor as an Engine for Electrical Cars
+36. Physical Modeling for DC Motor as an Engine for Electrical Cars
 
 :rocket:
 
