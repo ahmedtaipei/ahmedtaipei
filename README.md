@@ -49,7 +49,7 @@ Dynamic, motivated and well-grounded change agent with a passion for attaining t
 13. Design and Implementation of Wireless Fire Fighting System.
 14. Design and Simulation of DC Motor Speed Controller using Pole Placement Technique and MATLAB.
 15. Development of a computer based aircraft pitot-static instruments test system.
-16.Design of high frequency transformer for switch mode power supply.
+16. Design of high frequency transformer for switch mode power supply.
 17. Microcontroller based design of rectifier for chemical surface treatment. 
 18. Design and implementation of vehicle tracking and theft control system.
 19. Broadcast Searchable Keyword Encryption.
@@ -67,6 +67,7 @@ Dynamic, motivated and well-grounded change agent with a passion for attaining t
 33. Continuous Dynamic Time Warping for Signature image Verification.
 34. Development of Software agent for Border Surveillance
 35. Design and implementation of two axis antenna tracking controller.
+36. 16.	Physical Modeling for DC Motor as an Engine for Electrical Cars
 
 :rocket:
 
